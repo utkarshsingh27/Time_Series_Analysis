@@ -1,8 +1,5 @@
 # Monthly Power Generation Analysis – Uttar Pradesh
 
-
-**Tools Used:** Python, Pandas, Matplotlib, Statsmodels
-
 ---
 
 ## Project Overview
